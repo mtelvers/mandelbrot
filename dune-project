@@ -15,6 +15,8 @@
 
 (documentation https://github.com/mtelvers/mandelbrot)
 
+(formatting disabled)
+
 (package
  (name mandelbrot)
  (synopsis "A short synopsis")
