@@ -27,4 +27,4 @@ let () = for y = 0 to 999 do
   done
 done
 
-let x = read_line ()
+let _ = read_line ()

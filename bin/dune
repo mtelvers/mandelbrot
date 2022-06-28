@@ -1,4 +1,4 @@
 (executable
  (public_name mandelbrot)
  (name main)
- (libraries mandelbrot))
+ (libraries mandelbrot graphics))
