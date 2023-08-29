@@ -11,7 +11,7 @@ Initialise OPAM
 
 The PI distribution has OCaml 4.05 so get the latest version
 
-	opam sw create 4.13.0
+	opam sw create 4.14.1
 	eval $(opam env)
 
 Install Dune build system
