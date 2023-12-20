@@ -1,4 +1,4 @@
-# mandelbrot
+# Mandelbrot
 
 Running on a Raspberry PI...
 
